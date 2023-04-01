@@ -2,7 +2,7 @@
 
 ### Project Partners: Sujith Kumar and Debarshi Mondal 
 Linkedln (Debarshi Mondal): https://www.linkedin.com/in/debarshi-mondal/
-Linkedln (Sujit): // enter your link
+Linkedln (Sujit): https://www.linkedin.com/in/sujithdusa/
 
 
 ### Tech Stack: 
