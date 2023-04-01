@@ -7,5 +7,5 @@
 
 ### Tech Stack: 
 
-Frontend: Reactjs, Netlify
+Frontend: Reactjs, Netlify <br/>
 Backend: AWS, S3, Lambda, APIGateway, Nodejs
