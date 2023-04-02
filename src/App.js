@@ -149,6 +149,8 @@ function App() {
       <div>
         <input
           className="p-2 rounded-md"
+          style={{ border: "1px solid #000" }}
+          placeholder="enter code to download"
           type="text"
           value={downloadInput}
           onChange={(e) => setDownloadInput(e.target.value)}
