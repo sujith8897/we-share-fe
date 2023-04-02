@@ -124,6 +124,7 @@ function App() {
       <Header />
       <input
         type="file"
+        accept="image/png"
         id="files"
         className="file-req"
         onChange={(e) => setFile(e.target.files[0])}
